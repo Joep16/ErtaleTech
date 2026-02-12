@@ -33,9 +33,9 @@ ErtaleTech/
 └── README.md
 
 ## Screenshots
-![Home](screenshots/home.png)
-![Dashboard](screenshots/sales.png)
-![Add Record](screenshots/add.png)
+![Home](screenshots/home.PNG)
+![Dashboard](screenshots/sales.PNG)
+![Add Record](screenshots/add.PNG)
 
 
 
